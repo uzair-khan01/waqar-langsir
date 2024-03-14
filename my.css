@@ -13,3 +13,7 @@ img {
     border: 4px solid rgb(0, 0, 0);
     width: 200px;
 }
+h1 {
+    background: #07c6e7;
+    background: linear-gradient(to right bottom, #be1f1f black);
+}
